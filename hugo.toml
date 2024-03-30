@@ -2,3 +2,13 @@ baseURL = 'https://hanlon.me/'
 languageCode = 'en-us'
 title = 'Hanlon.me'
 theme = 'PaperMod'
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
