@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hanlon.me</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Hanlon.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Mar 2024 11:30:03 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Printer Build Update 2</title>
+      <link>http://localhost:1313/posts/3d-printer-build-update2/</link>
+      <pubDate>Fri, 15 Mar 2024 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/posts/3d-printer-build-update2/</guid>
+      <description>To build the Rook Mk2 requires printing lots of 3D printed parts that help for the electronics mounting, tool head, frame, gantry, bed, and other components. In total, I believe there are around 40 or so parts to print.
+As this is all new to me, I had to try out various Slicer software applications such as Cura and OrcaSlicer. The software is needed to import a part that needs to be printed in .</description>
+    </item>
+    <item>
+      <title>3D Printer Build Update 1</title>
+      <link>http://localhost:1313/posts/3d-printer-build-update1/</link>
+      <pubDate>Fri, 08 Mar 2024 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/posts/3d-printer-build-update1/</guid>
+      <description>I became interesting in 3D printing while looking at mechanical keyboards and finding a community that was developing some awesome mechanical keyboards. In many builds, various parts and pieces need to be printed from a 3D printer. I then began researching 3D printers and came to find that there are lot of printer manufactures such as Prusa (maker of Original Prusa i3), Creality (maker of Ender 3), Bamboo Labs, and many others.</description>
+    </item>
+    <item>
+      <title>3D Printer Build Kickoff</title>
+      <link>http://localhost:1313/posts/3d-printer-build-kickoff/</link>
+      <pubDate>Fri, 01 Mar 2024 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/posts/3d-printer-build-kickoff/</guid>
+      <description>After going down many rabbit holes and research, I decided to build a 3D printer. There are vibrant communities which focus on printer builds of varying complexity and cost such those from Voron Design, RepRap, and HevORT.
+In evaluating and weighing options, I decided to build a Rook Mk2 printer from Rolohaun Design. This was based upon the relative ease to build this printer compared to many others. Essentially it is beginner friendly.</description>
+    </item>
+  </channel>
+</rss>

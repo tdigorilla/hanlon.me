@@ -1,0 +1,4 @@
+baseURL = 'https://hanlon.me/'
+languageCode = 'en-us'
+title = 'Hanlon.me'
+theme = 'PaperMod'
