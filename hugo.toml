@@ -2,13 +2,17 @@ baseURL = 'https://hanlon.me/'
 languageCode = 'en-us'
 title = 'Hanlon.me'
 theme = 'PaperMod'
-menu:
-  main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
+
+[menus]
+[[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+[[menus.main]]
+    name = 'categories'
+    pageRef = '/categories'
+    weight = 20
+[[menus.main]]
+    name = 'tags'
+    pageRef = '/tags'
+    weight = 30
