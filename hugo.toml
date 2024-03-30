@@ -1,6 +1,6 @@
 baseURL = 'https://hanlon.me/'
 languageCode = 'en-us'
-title: hanlon.me
+title: 'Hanlon.me'
 theme: PaperMod
 
 enableEmoji: true
