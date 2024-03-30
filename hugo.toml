@@ -1,4 +1,41 @@
 baseURL = 'https://hanlon.me/'
 languageCode = 'en-us'
-title = 'Hanlon.me'
-theme = 'PaperMod'
+title: hanlon.me
+theme: PaperMod
+
+enableEmoji: true
+
+params:
+  author: Pete Hanlon
+  homeInfoParams:
+    Title: "hanlon.,e"
+    Content: >
+      Welcome to **hanlon.me** 🎉
+
+      - This is my blog space 🙂
+
+#  socialIcons:
+#    - name: Github
+#      url: "https://github.com/dhij"
+#    - name: Youtube
+#      url: "https://www.youtube.com/@dhij"
+#    - name: Rss
+#      url: "index.xml"
+
+  ShowReadingTime: true
+#  ShowShareButtons: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+#    - identifier: archives
+#      name: Archives
+#      url: /archives/
+#      weight: 30
