@@ -37,4 +37,26 @@ cover:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-Stay tuned
+To source the parts for the Rook Mk2, the designer provides a shared Google sheet for the [Bill of Materials](https://docs.google.com/spreadsheets/d/1k5knQOW3YX01BzTAEe6YCPVp2iNppOEKYJrqB6Ln_Wk/).
+
+## Frame
+
+I sourced the 2020 aluminum extrusion from a vendor on Amazon.com where I was able to buy ten 1220mm black anodized extrusions for $70. The Rook Mk2 needs eleven 200mm pieces. One 1220mm piece would then yield five or six pieces, so with ten 1220mm extrusions I was planning on having eight left over to use for other projects. This would put my cost for the extrusions for the Rook Mk2 at $14. However, the extrusions are not drilled or tapped so that was something that I knew I needed to do as I already had the majority of the tools on hand to do that. I cut the extrusion to 200mm lengths using a chop saw and a blade specifically for cutting metal. The most important thing was to use a cutting lubricant and cut each piece as square as possible. 2020 aluminum cuts easily and I have fairly high confidence that the frame will come together square and well within tolerance. If for some reason this approach does not work out I will purchase a prefabricated frame kit from one of the vendors on the BOM.
+
+In order to tap and drill the extrusions, there is a jig that I was able to 3D print which fit snugly and squarely on the end of each extrusion to be able to drill two holes at each end as well as to assist with using a 5mm tap to make a threaded hole at each end.
+
+## Hardware
+
+## Motion
+
+## Bed
+
+## Extruder and Hotend
+
+## Electronics
+
+
+
+
+
+
