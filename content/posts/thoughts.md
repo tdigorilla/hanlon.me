@@ -38,8 +38,6 @@ cover:
     appendFilePath: true # to append file path to Edit link
 ---
 
-## Randon Stuff
-## 5
+## Random Stuff
 
-## 6
 
