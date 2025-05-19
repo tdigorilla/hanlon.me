@@ -1,5 +1,5 @@
 ---
-title: "Greg Hanlon Audio Demos and Voiceovers"
+title: "Greg Hanlon Demos and Voiceovers"
 date: 2025-05-18T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -18,9 +18,9 @@ canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
-hideSummary: false
+hideSummary: true
 searchHidden: false
-ShowReadingTime: true
+ShowReadingTime: false
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 ShowWordCount: false
@@ -37,6 +37,8 @@ cover:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+My father, Greg Hanlon was a radio announcer as well as owner of his own agency. Here is a sampling of audio clips, demos, and short commercials he developed over the years. There were many many more over his lifetime and I only wish I had them to futher remember his incredible talent and humor. 
 
 [![Greg Hanlon Audio Demo Mix](https://img.youtube.com/vi/vR9xVcTc4yM/0.jpg)](https://www.youtube.com/watch?v=vR9xVcTc4yM "Greg Hanlon Audio Demo Mix")
 
