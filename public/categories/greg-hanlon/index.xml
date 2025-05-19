@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Greg Hanlon on Hanlon.me</title>
+    <link>http://localhost:1313/categories/greg-hanlon/</link>
+    <description>Recent content in Greg Hanlon on Hanlon.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 May 2025 11:30:03 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/greg-hanlon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Greg Hanlon</title>
+      <link>http://localhost:1313/posts/greg_hanlon/</link>
+      <pubDate>Sun, 18 May 2025 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/posts/greg_hanlon/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=vR9xVcTc4yM&#34; title=&#34;Greg Hanlon Audio Demo Mix&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/vR9xVcTc4yM/0.jpg&#34; alt=&#34;Greg Hanlon Audio Demo Mix&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1vYUKcIREx8&#34; title=&#34;Greg Hanlon Audio Demo - You Pay We Pay&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/1vYUKcIREx8/0.jpg&#34; alt=&#34;Greg Hanlon Audio Demo Mix&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -6,14 +6,58 @@
     <description>Recent content in Misc on Hanlon.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Mar 2024 11:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 11:30:03 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Thoughts</title>
-      <link>http://localhost:1313/posts/thoughts/</link>
-      <pubDate>Sat, 23 Mar 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/posts/thoughts/</guid>
-      <description>&lt;h2 id=&#34;random-stuff&#34;&gt;Random Stuff&lt;/h2&gt;</description>
+      <title>Sample Markdown Text</title>
+      <link>http://localhost:1313/posts/markdown/</link>
+      <pubDate>Sun, 18 May 2025 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/posts/markdown/</guid>
+      <description>&lt;hr&gt;
+&lt;h1 id=&#34;headers&#34;&gt;Headers&lt;/h1&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# h1 Heading 8-)
+## h2 Heading
+### h3 Heading
+#### h4 Heading
+##### h5 Heading
+###### h6 Heading
+
+Alternatively, for H1 and H2, an underline-ish style:
+
+Alt-H1
+======
+
+Alt-H2
+------
+&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;h1-heading-8-&#34;&gt;h1 Heading 8-)&lt;/h1&gt;
+&lt;h2 id=&#34;h2-heading&#34;&gt;h2 Heading&lt;/h2&gt;
+&lt;h3 id=&#34;h3-heading&#34;&gt;h3 Heading&lt;/h3&gt;
+&lt;h4 id=&#34;h4-heading&#34;&gt;h4 Heading&lt;/h4&gt;
+&lt;h5 id=&#34;h5-heading&#34;&gt;h5 Heading&lt;/h5&gt;
+&lt;h6 id=&#34;h6-heading&#34;&gt;h6 Heading&lt;/h6&gt;
+&lt;p&gt;Alternatively, for H1 and H2, an underline-ish style:&lt;/p&gt;
+&lt;h1 id=&#34;alt-h1&#34;&gt;Alt-H1&lt;/h1&gt;
+&lt;h2 id=&#34;alt-h2&#34;&gt;Alt-H2&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h1&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Emphasis, aka italics, with *asterisks* or _underscores_.
+
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
+
+**This is bold text**
+
+__This is bold text__
+
+*This is italic text*
+
+_This is italic text_
+
+~~Strikethrough~~
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
